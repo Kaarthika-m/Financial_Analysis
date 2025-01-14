@@ -45,3 +45,6 @@ This repository contains a comprehensive Power BI dashboard designed to analyze 
 
 - **Data Sources**:
   - Financial and operational data used for building this dashboard.
+
+
+ ![Screenshot (1)](https://github.com/user-attachments/assets/afa59186-c1f8-4c90-859a-0d9b5443b7ad)
