@@ -4,38 +4,36 @@
 
 This repository contains a comprehensive Power BI dashboard designed to analyze and visualize financial performance across various key metrics. The dashboard provides detailed insights into revenue, profit, and marketing costs over time, segmented by year and country.
 
-## Features
+## Features  
 
-- **Revenue Analysis**:
-  - Yearly and quarterly trends in sales revenue across multiple countries, including Australia, Canada, France, Germany, New Zealand, the UK, and the USA.
-  - A clear comparison of performance across regions and time periods.
+- **Sales Revenue**:  
+  - Total Sales Revenue has seen consistent growth from 2018 to 2020, with a significant increase in 2020 compared to 2018.  
+  - Sales FTP has shown a positive trend over the years, reflecting strong financial performance.  
 
-- **Profitability Metrics**:
-  - Visualized trends for Gross Profit and Net Profit over different time frames.
-  - Key profitability indicators, including Gross Profit Margin (GP Margin) and Net Profit Margin (NP Margin).
+- **Profit Analysis**:  
+  - **Gross Profit Trends**:  
+    - Gross Profit increased steadily over the years, with a notable jump in 2020 compared to 2018.  
+    - The Gross Profit Margin remained consistently high, showcasing operational efficiency.  
+  - **Net Profit Trends**:  
+    - Net Profit exhibited significant improvement, especially between 2018 and 2019. However, there was a slight decline in margin in 2020 compared to 2019.  
 
-- **Marketing Cost Insights**:
-  - Analysis of the relationship between sales and marketing costs.
-  - Highlights the impact of marketing expenditure on overall financial performance.
-
-- **Financial Breakdown**:
-  - Comprehensive view of trading, operating, and non-operating accounts.
-  - Key financial metrics such as EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) and PBIT (Profit Before Interest and Taxes).
+- **Country-Wise Performance**:  
+  - **USA**: Demonstrated the highest growth in both Gross Profit and Net Profit year-on-year, leading all regions.  
+  - **UK**: Showed a steady and stable increase in financial performance.  
+  - **Australia**: Maintained consistent growth across all metrics, contributing positively to overall performance.  
 
 ## Insights from the Dashboard
 
-1. **Yearly Revenue and Profit Trends**:
-   - Significant growth in revenue and profit from 2018 to 2020.
-   - The USA and UK show strong performance compared to other regions.
+1. **Revenue Growth**:  
+   Sales Revenue has experienced steady growth, indicating improved business operations and market presence.  
 
-2. **Marketing Efficiency**:
-   - A clear relationship between increased marketing expenditure and higher sales figures.
+2. **Profit Trends**:  
+   - Gross Profit showed a substantial increase over the years, with 2020 outperforming previous years.  
+   - Net Profit followed a similar trend, with notable growth between 2018 and 2019, although 2020 saw a slight dip in margin.  
 
-3. **Country-Wise Financial Performance**:
-   - Country-specific analysis reveals regional strengths and areas for improvement.
-
-4. **Detailed Financial Accounts**:
-   - Breakdown of key accounts provides insights into revenue streams, operating expenses, and overall profitability.
+3. **Country-Specific Analysis**:  
+   - The USA consistently outperformed other countries in profit growth, showcasing strong market dominance.  
+   - The UK and Australia displayed steady improvements, contributing significantly to overall profitability.  
 
 ## Technology Stack
 
